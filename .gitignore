@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
+
+# Firebase
+.firebase/
+firebase-debug.log
+google-services.json
+
+# Node modules
+node_modules/
